@@ -1,2 +1,1 @@
-# hellow_word
-no
+# hellow-word
